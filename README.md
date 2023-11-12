@@ -4,4 +4,20 @@ This project demonstrates the implementation of CRUD (Create, Read, Update, Dele
 
 ## Screenshots
 
-![App Screenshot]([[https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/Niraj-Dilshan/CodeIgniter_4_CRUD_with_Bootstrap_and_MySQL/blob/Main/.gh/img/Screenshot%202023-11-12%20124257.png)https://github.com/Niraj-Dilshan/CodeIgniter_4_CRUD_with_Bootstrap_and_MySQL/blob/Main/.gh/img/Screenshot%202023-11-12%20124257.png](https://raw.githubusercontent.com/Niraj-Dilshan/CodeIgniter_4_CRUD_with_Bootstrap_and_MySQL/Main/.gh/img/Screenshot%202023-11-12%20124257.png)https://raw.githubusercontent.com/Niraj-Dilshan/CodeIgniter_4_CRUD_with_Bootstrap_and_MySQL/Main/.gh/img/Screenshot%202023-11-12%20124257.png)
+### Dashbord (Main View)
+![Dashbord](https://raw.githubusercontent.com/Niraj-Dilshan/CodeIgniter_4_CRUD_with_Bootstrap_and_MySQL/Main/.gh/img/Screenshot%202023-11-12%20124257.png)
+
+### Add New Account
+![Insert](https://raw.githubusercontent.com/Niraj-Dilshan/CodeIgniter_4_CRUD_with_Bootstrap_and_MySQL/Main/.gh/img/Screenshot%202023-11-12%20124306.png)
+
+### Update Accouts
+![Update](https://raw.githubusercontent.com/Niraj-Dilshan/CodeIgniter_4_CRUD_with_Bootstrap_and_MySQL/Main/.gh/img/Screenshot%202023-11-12%20124314.png)
+
+### Delete Accout
+![Delete](https://raw.githubusercontent.com/Niraj-Dilshan/CodeIgniter_4_CRUD_with_Bootstrap_and_MySQL/Main/.gh/img/Screenshot%202023-11-12%20124324.png)
+
+### Error Massages
+![Error](https://raw.githubusercontent.com/Niraj-Dilshan/CodeIgniter_4_CRUD_with_Bootstrap_and_MySQL/Main/.gh/img/Screenshot%202023-11-12%20124340.png)
+
+### Success Massages
+![Success](https://raw.githubusercontent.com/Niraj-Dilshan/CodeIgniter_4_CRUD_with_Bootstrap_and_MySQL/Main/.gh/img/Screenshot%202023-11-12%20124406.png)
