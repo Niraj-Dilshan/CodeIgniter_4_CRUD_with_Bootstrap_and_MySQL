@@ -1,0 +1,1 @@
+__ci_last_regenerate|i:1699772114;_ci_previous_url|s:59:"http://localhost/ICT3243_MID/public/index.php/bank_accounts";error|a:2:{s:9:"bank_name";s:71:"The bank_name field may only contain alphanumeric and space characters.";s:6:"branch";s:68:"The branch field may only contain alphanumeric and space characters.";}__ci_vars|a:1:{s:5:"error";s:3:"old";}

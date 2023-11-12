@@ -1,0 +1,45 @@
+CRITICAL - 2023-10-27 09:23:26 --> Invalid file: "bank_accounts.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bank_accounts.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('bank_accounts', [], true)
+ 3 APPPATH\Controllers\BankAccountController.php(19): view('bank_accounts', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\BankAccountController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BankAccountController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-27 09:23:35 --> Invalid file: "bank_accounts.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bank_accounts.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('bank_accounts', [], true)
+ 3 APPPATH\Controllers\BankAccountController.php(19): view('bank_accounts', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\BankAccountController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BankAccountController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-27 09:30:24 --> Invalid file: "bank_accounts.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bank_accounts.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('bank_accounts', [], true)
+ 3 APPPATH\Controllers\BankAccountController.php(19): view('bank_accounts', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\BankAccountController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BankAccountController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-27 09:30:25 --> Invalid file: "bank_accounts.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bank_accounts.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('bank_accounts', [], true)
+ 3 APPPATH\Controllers\BankAccountController.php(19): view('bank_accounts', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\BankAccountController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BankAccountController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-27 09:30:42 --> Invalid file: "bank_accounts.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bank_accounts.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('bank_accounts', [], true)
+ 3 APPPATH\Controllers\BankAccountController.php(19): view('bank_accounts', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\BankAccountController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BankAccountController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

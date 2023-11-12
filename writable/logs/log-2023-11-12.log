@@ -1,0 +1,11 @@
+CRITICAL - 2023-11-12 06:36:22 --> Array to string conversion
+in APPPATH\Views\BankAccounts.php on line 188.
+ 1 APPPATH\Views\BankAccounts.php(188): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'D:\\wamp64\\www\\ICT3243_MID\\app\\Views\\BankAccounts.php', 188)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\wamp64\\www\\ICT3243_MID\\app\\Views\\BankAccounts.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('BankAccounts', [], true)
+ 5 APPPATH\Controllers\BankAccountController.php(18): view('BankAccounts', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\BankAccountController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BankAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
