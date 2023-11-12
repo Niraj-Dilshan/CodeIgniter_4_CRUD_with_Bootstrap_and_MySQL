@@ -2,6 +2,13 @@
 
 This project demonstrates the implementation of CRUD (Create, Read, Update, Delete) operations in CodeIgniter 4 with MySQL and Bootstrap. CRUD operations are crucial in any application that deals with persistent storage.
 
+## Features
+
+- User-friendly interface with Bootstrap.
+- Server Side validation.
+- CRUD operations with MySQL database.
+- Use of CodeIgniter's Model for handling data.
+
 ## Screenshots
 
 ### Dashbord (Main View)
